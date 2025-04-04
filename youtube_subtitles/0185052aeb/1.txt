@@ -1,0 +1,45 @@
+hey what's going on folks it's mike here
+and welcome to a very exciting
+introduction to the opengl programming
+series now in this series i'm going to
+be discussing the opengl programming api
+so if you're not aware opengl is one of
+the most popular graphics programming
+apis alongside direct3d
+metal and vulkan for instance that
+allows you to create different gaming
+applications virtual reality cad
+software 3d modeling as well as a
+multitude of other 2d software as well
+so in this series what i'm going to
+cover is opengl programming from scratch
+so that means if you're just getting
+started this is a series for you
+we're going to be using the c plus
+programming language for the lessons in
+this series so feel free to check out my
+other series if you'd like to ramp up on
+those skills as well
+and and the other thing that we're going
+to be covering specific to opengl is
+modern opengl so that means version 3.3
+and beyond so that you're doing the
+latest and greatest stuff that you would
+likely be doing if you're working on the
+job in opengl or just progressing
+further now a lot of the materials that
+again we're going to be showing are
+applicable to c plus plus and opengl but
+if you're going to use another language
+like python for instance or even webgl
+you'll still be learning the
+fundamentals of how the api works and i
+like to cover things from scratch so you
+really get to see how things work what
+documentation i'm using and so on as we
+learn opengl so i'm excited to take this
+journey with you welcome to the series
+and with that said let's go ahead and
+hop on to the next video so you can go
+ahead and get started learning we'll see
+you soon folks
